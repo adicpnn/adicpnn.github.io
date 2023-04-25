@@ -22,7 +22,7 @@ title: Adicpnn's
 email: adicpnn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   cybersec n00b on his learning path
-baseurl: /docs # the subpath of your site, e.g. /blog
+baseurl: / # the subpath of your site, e.g. /blog
 url: https://adicpnn.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: adicpnn.github.io
 twitter_username: _adicpnn
