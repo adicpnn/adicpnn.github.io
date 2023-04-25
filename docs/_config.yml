@@ -29,7 +29,7 @@ twitter_username: _adicpnn
 github_username:  adicpnn
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
