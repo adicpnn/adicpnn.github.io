@@ -18,9 +18,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: infosec # the main title
+title: adicpnn # the main title
 
-tagline: adicpnn's blog # it will display as the sub-title
+tagline: infosec shenanigans # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   yet another cybersecurity blog
