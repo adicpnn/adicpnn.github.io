@@ -1,7 +1,7 @@
 ---
 title: Setting up an Android emulator for pentesting
 date: 2023-08-01 13:37:00
-categories: [guides,android]
+categories: [Guides,Android]
 tags: [android,emulator]     # TAG names should always be lowercase
 ---
 First and foremost, to pentest Android apps, we'll need to create the Android emulator. Lots of options are available online such as [Noxplayer](https://www.bignox.com/), [Genymotion](https://www.genymotion.com/), or my personal favorite, [Android Studio](https://developer.android.com/studio). 
